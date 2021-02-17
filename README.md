@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+
+## Msc student at ynov University - Data science & Machine Learning
+- **Topic: "????".
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
