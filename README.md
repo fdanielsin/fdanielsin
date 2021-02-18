@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ## Msc student at ynov University - Data science & Machine Learning
 - **Topic: "????".
+- ** Tech &. Skill : Python 🐍, Golang
 
 ### Languages and Tools:
 
