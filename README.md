@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![fdanielsin's github stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&count_private=true)
+![FDanielsin GitHub stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdanielsin&layout=compact)](https://github.com/fdanielsin/github-readme-stats)
 
 <!--
