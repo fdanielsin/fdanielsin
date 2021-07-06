@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-![fdanielsin's github stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&count_private=true)
-![FDanielsin GitHub stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdanielsin&layout=compact)](https://github.com/fdanielsin/github-readme-stats)
+
+
+![Daniels github stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&count_private=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdanielsin&hide=html&layout=compact&theme=dracula)](https://github.com/ahmedbesbes/github-readme-stats)
+
 
 <!--
 **fdanielsin/fdanielsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +29,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 ## Msc student at ynov University - Data science & Machine Learning
-- **Topic: "????".
+- ** Topic: Big Data, Machine Learning, Real-time data ecosystem, Docker
 - ** Tech &. Skill : Python 🐍, Golang
 
 ### Languages and Tools:
