@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![fdanielsin's github stats](https://github-readme-stats.vercel.app/api?username=fdanielsin&count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdanielsin&layout=compact)](https://github.com/fdanielsin/github-readme-stats)
 
 <!--
 **fdanielsin/fdanielsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
