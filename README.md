@@ -1,19 +1,19 @@
 ## Hey 👋, I'm Daniels !
 
-I am versatile and can easily adapt to different tasks ( ML Engineer, Web Developer) depending on what the project requirements demand. I love discovering new technology stacks and use them to build something cool stuff.
+I am versatile and can easily adapt to different tasks ( Data Engineer / Analytics) depending on what the project requirements demand. 
+
+I love discovering new technology stacks and use them to build something cool stuff.
 
 ### Here are some ideas to get you started:
 
-- 🔭 I'm currently a student and working on something cool about Data 😉
-- 🌱 I’m currently learning Go, Statics and Data Science
-- 🤔 I’m looking for help with Statistics
+- 🔭 I'm currently a working on something cool about Data 😉
 - 👯 I’m looking to collaborate with other people
-- 🥅 2022 Goals: Contribute more projects
+- 🥅 2024 Goals: Contribute more projects
 
-### Msc student at ynov University - Data science & Machine Learning
+### Here same of my skill
 
 - Topic: Big Data, Machine Learning, Real-time data ecosystem, Docker
-- Tech &. Skill : Python, Javascript
+- Tech &. Skill : Python, PySpark, SQL, Bash, Javascrip, Pytorch, OpenCV, Deepsort, Yolov5
 
 ### Languages and Tools:
 
